@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">620966248229-7ol9pgjrik298e6p4s5rlg336pian1hb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fitnss-4c81f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">620966248229</string>
+    <string name="google_api_key" translatable="false">AIzaSyBBYCCbIQLoouXsYdJoD8eMa8FaWx6YMlA</string>
+    <string name="google_app_id" translatable="false">1:620966248229:android:1dd640c0ee3e04ad2364cc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBBYCCbIQLoouXsYdJoD8eMa8FaWx6YMlA</string>
+    <string name="google_storage_bucket" translatable="false">fitnss-4c81f.appspot.com</string>
+    <string name="project_id" translatable="false">fitnss-4c81f</string>
+</resources>
