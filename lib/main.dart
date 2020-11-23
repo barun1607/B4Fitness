@@ -1,3 +1,4 @@
+import 'package:fitness/widgets/NavButton.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -22,6 +23,7 @@ class Home  extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Color(100),
       ),
+      body: NavButton(),
     );
   }
 }
