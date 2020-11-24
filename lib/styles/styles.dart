@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 Color navColor = HexColor("#0F3057");
 Color bgColor = HexColor("#E7E7DE");
 Color bgColorSec = HexColor("#00587A");
+Color btnColor = HexColor("#008891");
 
 AppBarTheme barTheme = AppBarTheme(
   textTheme: TextTheme(
@@ -13,6 +14,12 @@ AppBarTheme barTheme = AppBarTheme(
     )
   ),
   color: navColor,
+);
+
+TextStyle titleTextStyle = TextStyle(
+  fontFamily: "Montserrat",
+  fontWeight: FontWeight.bold,
+  fontSize: 28,
 );
 
 TextStyle defaultTextStyle = TextStyle(

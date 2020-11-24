@@ -1,11 +1,12 @@
+import 'package:fitness/styles/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
 
 class NavButton extends StatelessWidget {
   final String _btnName;
   final String _imgUrl;
+  GestureTapCallback _action;
 
-  NavButton(this._btnName, this._imgUrl);
+  NavButton(this._btnName, this._imgUrl, this._action);
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +14,7 @@ class NavButton extends StatelessWidget {
       height: 150,
       width: 150,
       child: RaisedButton(
-        onPressed: () {},
+        onPressed: _action,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(10),
         ),
@@ -29,6 +30,7 @@ class NavButton extends StatelessWidget {
           ],
         ),
         color: Colors.white,
+        splashColor: bgColorSec,
         elevation: 5,
         padding: EdgeInsets.all(0),
       ),
