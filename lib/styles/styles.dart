@@ -15,6 +15,12 @@ AppBarTheme barTheme = AppBarTheme(
   color: navColor,
 );
 
+TextStyle defaultTextStyle = TextStyle(
+  fontFamily: "Montserrat",
+  fontWeight: FontWeight.normal,
+  fontSize: 16,
+);
+
 TextTheme defaultText = TextTheme(
   button: TextStyle(
     fontFamily: "Montserrat",

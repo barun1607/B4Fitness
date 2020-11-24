@@ -7,6 +7,9 @@ class MyDrawer extends StatefulWidget {
 }
 
 class _MyDrawerState extends State<MyDrawer> {
+  String _accName = "DefaultAcc";
+  String _email = "default@example.com";
+
   @override
   Widget build(BuildContext context) {
     return Drawer(
@@ -14,11 +17,43 @@ class _MyDrawerState extends State<MyDrawer> {
         padding: EdgeInsets.all(0),
         children: [
           UserAccountsDrawerHeader(
-            decoration: BoxDecoration(
-              color: bgColorSec,
+            currentAccountPicture: CircleAvatar(
+              backgroundImage: AssetImage("image.jpg"),
             ),
-
+            decoration: BoxDecoration(
+              color: navColor,
+            ),
+            accountName: Text(
+              _accName,
+              style: defaultTextStyle,
+            ),
+            accountEmail: Text(
+              _email,
+              style: defaultTextStyle,
+            ),
           ),
+          ListTile(
+            onTap: (){},
+            title: Text(
+              "Edit",
+               style: defaultTextStyle,
+            ),
+            subtitle: Text(
+              "Change your account details",
+              style: TextStyle(
+                fontFamily: "Montserrat",
+              ),
+            ),
+            trailing: Icon(Icons.edit),
+          ),
+          ListTile(
+            onTap: (){},
+            title: Text(
+              "Logout",
+              style: defaultTextStyle,
+            ),
+            trailing: Icon(Icons.logout),
+          )
         ],
       ),
     );

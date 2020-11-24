@@ -16,8 +16,8 @@ class Home  extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              NavButton("hello", "assets/images/1200px-Calendar_font_awesome.svg.png"),
-              NavButton("hello", "assets/images/1200px-Calendar_font_awesome.svg.png"),
+              NavButton("BMI Calculator ", "assets/images/1200px-Calendar_font_awesome.svg.png"),
+              NavButton("BF% Calculator", "assets/images/1200px-Calendar_font_awesome.svg.png"),
             ],
           ),
           SizedBox(
@@ -26,8 +26,8 @@ class Home  extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              NavButton("hello", "assets/images/1200px-Calendar_font_awesome.svg.png"),
-              NavButton("hello", "assets/images/1200px-Calendar_font_awesome.svg.png"),
+              NavButton("Weight Tracker", "assets/images/1200px-Calendar_font_awesome.svg.png"),
+              NavButton("Personal Stats", "assets/images/1200px-Calendar_font_awesome.svg.png"),
             ],
           ),
         ],

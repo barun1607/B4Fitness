@@ -22,16 +22,10 @@ class NavButton extends StatelessWidget {
           children: [
             SizedBox(
               child: Image.asset(_imgUrl),
-              height: 100,
-              width: 100,
+              height: 80,
+              width: 80,
             ),
-            Text(
-              _btnName,
-              // style: TextStyle(
-              //   fontFamily: "Montserrat",
-              //   fontSize: 26,
-              // ),
-            ),
+            Text(_btnName),
           ],
         ),
         color: Colors.white,
