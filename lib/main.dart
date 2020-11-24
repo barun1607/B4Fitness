@@ -23,7 +23,9 @@ class Home  extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Color(100),
       ),
-      body: NavButton(),
+      body: Column(
+        
+      ),
     );
   }
 }
