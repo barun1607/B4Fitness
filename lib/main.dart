@@ -1,5 +1,5 @@
-import 'package:fitness/widgets/NavButton.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:fitness/pages/home.dart';
+import 'package:fitness/styles/styles.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,21 +12,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Home(),
+      theme: ThemeData(
+        appBarTheme: barTheme,
+        scaffoldBackgroundColor: bgColor,
+        textTheme: defaultText,
+      ),
     );
   }
 }
 
-class Home  extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Color(100),
-      ),
-      body: Column(
-        
-      ),
-    );
-  }
-}
+
 

@@ -9,6 +9,7 @@ MERGED from [:firebase_auth] D:\Android_Studio_Projects\B4Fitness\build\firebase
 MERGED from [:cloud_firestore] D:\Android_Studio_Projects\B4Fitness\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:path_provider] D:\Android_Studio_Projects\B4Fitness\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_core] D:\Android_Studio_Projects\B4Fitness\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:hexcolor] D:\Android_Studio_Projects\B4Fitness\build\hexcolor\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:18.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\07cc324ab72e31076d9549ebc618373e\firebase-core-18.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:18.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\dd47fca0e14640edf26ad1cae04e5f27\firebase-analytics-18.0.0\AndroidManifest.xml:2:1-9:12
@@ -182,6 +183,8 @@ MERGED from [:path_provider] D:\Android_Studio_Projects\B4Fitness\build\path_pro
 MERGED from [:path_provider] D:\Android_Studio_Projects\B4Fitness\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] D:\Android_Studio_Projects\B4Fitness\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] D:\Android_Studio_Projects\B4Fitness\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:hexcolor] D:\Android_Studio_Projects\B4Fitness\build\hexcolor\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:hexcolor] D:\Android_Studio_Projects\B4Fitness\build\hexcolor\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-core:18.0.0] C:\Users\Varun\.gradle\caches\transforms-2\files-2.1\07cc324ab72e31076d9549ebc618373e\firebase-core-18.0.0\AndroidManifest.xml:5:5-44

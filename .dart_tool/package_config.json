@@ -182,6 +182,12 @@
       "languageVersion": "2.3"
     },
     {
+      "name": "hexcolor",
+      "rootUri": "file:///C:/Users/Varun/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/hexcolor-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
       "name": "hive",
       "rootUri": "file:///C:/Users/Varun/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/hive-1.4.4+1",
       "packageUri": "lib/",
@@ -368,7 +374,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-11-23T18:16:22.844972Z",
+  "generated": "2020-11-24T06:44:09.127555Z",
   "generator": "pub",
   "generatorVersion": "2.10.4"
 }
