@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43c4a876-0ec3-4a81-b4e5-3996f0ea5d5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6ccb38556971829a4c7f7d5ec20a347d/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/signup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/signup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/DefaultTextInp.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/DefaultTextInp.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,41 +104,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="changed build.gradle file a bit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="892" height="624" key="AVDManager" timestamp="1606215275488">
+    <state x="100" y="100" width="892" height="624" key="AVDManager" timestamp="1606845551164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="100" y="100" width="892" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1606215275488" />
+    <state x="100" y="100" width="892" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1606845551164" />
     <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1606144169740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="173" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606144169740" />
-    <state width="1032" height="208" key="GridCell.Tab.0.bottom" timestamp="1606232402368">
+    <state width="1032" height="208" key="GridCell.Tab.0.bottom" timestamp="1606846639486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1032" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606232402368" />
-    <state width="1032" height="208" key="GridCell.Tab.0.center" timestamp="1606232402368">
+    <state width="1032" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606846639486" />
+    <state width="1032" height="208" key="GridCell.Tab.0.center" timestamp="1606846639486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1032" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606232402368" />
-    <state width="1032" height="208" key="GridCell.Tab.0.left" timestamp="1606232402368">
+    <state width="1032" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606846639486" />
+    <state width="1032" height="208" key="GridCell.Tab.0.left" timestamp="1606846639486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1032" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606232402368" />
-    <state width="1032" height="208" key="GridCell.Tab.0.right" timestamp="1606232402368">
+    <state width="1032" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606846639486" />
+    <state width="1032" height="208" key="GridCell.Tab.0.right" timestamp="1606846639486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1032" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606232402368" />
+    <state width="1032" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606846639486" />
     <state x="139" y="132" key="Vcs.Push.Dialog.v2" timestamp="1606144184554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="139" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606144184554" />
-    <state x="356" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606144119014">
+    <state x="356" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606841781007">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606144119014" />
-    <state x="210" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606150743341">
+    <state x="356" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606841781007" />
+    <state x="210" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606920883325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606150743341" />
+    <state x="210" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606920883325" />
   </component>
 </project>

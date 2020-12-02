@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: SignUp(),
+      home: Login(),
       theme: ThemeData(
         appBarTheme: barTheme,
         scaffoldBackgroundColor: bgColor,
